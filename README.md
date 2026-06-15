@@ -18,7 +18,7 @@ An interactive web-based Sudoku solver that takes an input grid representing an 
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the Sudoku Solver](https://your-username.github.io/your-repo-name/sudoku_solver.html)
+👉 [Click here to try the Sudoku Solver](https://almasaji133-bytez.github.io/SCT_SD_3/sudoku_solver.html)
 
 ---
 
