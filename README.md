@@ -85,4 +85,4 @@ The solver uses a **backtracking algorithm**, which works as follows:
 
 **Organization:** SkillCraft Technology  
 **Task:** 03 — Sudoku Solver  
-**Intern:** [Your Name]
+**Intern:** Alma Saji
